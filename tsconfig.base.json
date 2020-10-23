@@ -3,6 +3,7 @@
     "target": "es2019",
     "module": "commonjs",
     "moduleResolution": "node",
+    "jsx": "react",
     "esModuleInterop": true,
     "sourceMap": true,
     "composite": true,
