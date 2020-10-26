@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/panagiros/react-rut.git"
+    "url": "git+https://github.com/afex-connect/react-rut.git"
   },
   "author": "Elvis Munoz <elvis.munoz.f@gmail.com>",
   "private": true,
   "bugs": {
-    "url": "https://github.com/panagiros/react-rut/issues"
+    "url": "https://github.com/afex-connect/react-rut/issues"
   },
-  "homepage": "https://github.com/panagiros/react-rut#readme",
+  "homepage": "https://github.com/afex-connect/react-rut#readme",
   "devDependencies": {
     "@types/jest": "^26.0.14",
     "@types/node": "^14.11.5",
