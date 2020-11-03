@@ -4,8 +4,16 @@ The goal of this bundle is provide a chilean RUT utilities for [React].
 
 ## Install
 
+with NPM:
+
 ```bash
 npm install react-rut
+```
+
+with Yarn:
+
+```bash
+yarn add react-rut
 ```
 
 ## Usage

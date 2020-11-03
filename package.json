@@ -1,7 +1,13 @@
 {
   "name": "react-rut",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chilean RUT for React",
+  "keywords": [
+    "react",
+    "chilean",
+    "rut",
+    "hooks"
+  ],
   "main": "dist/index.js",
   "scripts": {
     "test": "jest --verbose",
