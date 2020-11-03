@@ -13,7 +13,7 @@ npm install react-rut
 with Yarn:
 
 ```bash
-yadn add react-rut
+yarn add react-rut
 ```
 
 ## Usage
