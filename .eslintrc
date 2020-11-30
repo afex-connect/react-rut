@@ -25,6 +25,6 @@
     "import/order": "error",
     "import/newline-after-import": "error",
     "import/no-anonymous-default-export": "error",
-    "simple-import-sort/sort": "error"
+    "simple-import-sort/imports": "error"
   }
 }
